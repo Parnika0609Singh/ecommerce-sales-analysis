@@ -63,7 +63,7 @@ Key analyses performed:
 
 An interactive dashboard was built to visualize and explore insights:
 
- **View Dashboard:** [\[Taleau Link\]](https://public.tableau.com/views/Book2_17757665358590/E-CommerceSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ **View Dashboard:** [\[Tableau Link\]](https://public.tableau.com/views/Book2_17757665358590/E-CommerceSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Features:
 
